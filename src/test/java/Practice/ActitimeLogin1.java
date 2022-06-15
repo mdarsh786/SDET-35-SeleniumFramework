@@ -14,7 +14,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ActitimeLogin1 {
-
+//Updated the code
 	public static void main(String[] args) throws IOException {
 	FileInputStream fis=new FileInputStream("./data/arsh.property");
 	Properties p=new Properties();
